@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+div{
+    background-color: blue;
+    height: 300px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    gap: 100px;
+}
